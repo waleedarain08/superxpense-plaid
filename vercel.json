@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/.well-known/apple-app-site-association",
+      "dest": "/api/apple-app-site-association"
+    }
+  ]
+}

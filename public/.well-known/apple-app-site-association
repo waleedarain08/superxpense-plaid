@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WQ8NU3AU8M.com.superxpense",
+        "paths": ["/plaid-oauth/*"]
+      }
+    ]
+  }
+}
