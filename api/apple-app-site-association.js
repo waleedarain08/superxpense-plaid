@@ -5,8 +5,8 @@ export default function handler(req, res) {
       apps: [],
       details: [
         {
-          appID: "6746163922.com.superxpense",
-          paths: ["/plaid-oauth/*"]
+          appID: "WQ8NU3AU8M.com.superxpense",
+          paths: ["/*"]
         }
       ]
     }
